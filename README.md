@@ -45,7 +45,7 @@ The scenario expects the sheet to use these headers in row 1:
 
 | Email | Puesto | Empresa | Versión | CV_Link | Status | Fecha | Detalle | Links |
 |---|---|---|---|---|---|---|---|---|
-| arellano.a.arturo@gmail.com | Test | Test for main | A | 1AaEGXlot9 | Enviado | 2026-05-13 09:00 | A - Datos inglés | 1AaEGXlot9-UCORNuw9iFq9n8P7Xs |
+| arellano.a.arturo@gmail.com | Test | Test for main | A | 1AaEGXlot9 | Enviado | 2026-05-13 09:00 | A - Datos inglés | 1AaEGXl |
 
 ### How the scenario updates the sheet
 
